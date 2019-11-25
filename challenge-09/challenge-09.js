@@ -98,7 +98,7 @@ console.log( 'O resultado da subtração é:' );
 // ?
 
 console.log( 'O resultado da multiplicação é:' );
-// ?
+// 
 
 console.log( 'O resultado da divisão é:' );
 // ?
